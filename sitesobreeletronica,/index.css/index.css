@@ -1,0 +1,26 @@
+body {
+    background-color: aquamarine;
+    background-color: grey;
+}
+button{
+    display: flex;
+    justify-content: space-between;
+}
+img {
+    width: 20px;
+    height: 20px;
+
+}
+img {
+    align-items: center;
+}
+button{
+    align-content: center;
+}
+audio{
+    display: flex;
+    justify-content: space-between;
+}
+audio {
+    text-align: center;
+}
